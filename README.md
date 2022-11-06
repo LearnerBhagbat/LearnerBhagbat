@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LearnerBhagbat
+- 👋 Hi, I’m Bhagabat Mohapatra.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning different types of Programming Languages and Techniques.
 - 💞️ I’m looking to collaborate on Various types of people who are creating Projects.
