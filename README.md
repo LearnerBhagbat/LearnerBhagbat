@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 # 💫 About Me:
 -👋 Hi, I’m 𝓑𝓱𝓪𝓰𝓪𝓫𝓪𝓽 𝓜𝓸𝓱𝓪𝓹𝓪𝓽𝓻𝓪.<br>- 👀 I’m interested in Programming.<br>- 🌱 I’m currently learning Programming and Techniques for Development.<br>- 💞️ I’m looking to collaborate on Various types of people who are creating Projects.<br>- 📫 How to reach me you can mail 📩 at "bhagbatmohapatra5151@gmail.com".<br>
 
