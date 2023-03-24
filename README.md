@@ -1,10 +1,12 @@
-<div align="center">
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-</div>  
 
 # 💫 About Me:
--👋 Hi, I’m 𝓑𝓱𝓪𝓰𝓪𝓫𝓪𝓽 𝓜𝓸𝓱𝓪𝓹𝓪𝓽𝓻𝓪.<br>- 👀 I’m interested in Programming.<br>- 🌱 I’m currently learning Programming and Techniques for Development.<br>- 💞️ I’m looking to collaborate on Various types of people who are creating Projects.<br>- 📫 How to reach me you can mail 📩 at "bhagbatmohapatra5151@gmail.com".<br>
-
+-👋 Hi, I’m 𝓑𝓱𝓪𝓰𝓪𝓫𝓪𝓽 𝓜𝓸𝓱𝓪𝓹𝓪𝓽𝓻𝓪.<br>- 👀 I’m interested in Programming.<br>- 🌱 I’m currently learning Programming and Techniques for Development.<br>- 💞️ I’m looking to collaborate on Various types of people who are creating Projects.<br>- 📫 How to reach me you can mail 📩 at "bhagbatmohapatra5151@gmail.com".
+<div align="right">
+  <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+</div>
+<br>
+ 
+ <img src="https://i.gifer.com/F9S.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagabatssm ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19494309) 
@@ -20,5 +22,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LearnerBhagbat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
